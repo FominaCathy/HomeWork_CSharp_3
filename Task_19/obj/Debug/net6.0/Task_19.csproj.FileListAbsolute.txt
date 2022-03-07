@@ -1,0 +1,15 @@
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\bin\Debug\net6.0\Task_19.exe
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\bin\Debug\net6.0\Task_19.deps.json
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\bin\Debug\net6.0\Task_19.runtimeconfig.json
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\bin\Debug\net6.0\Task_19.dll
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\bin\Debug\net6.0\Task_19.pdb
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.AssemblyInfoInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.AssemblyInfo.cs
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.dll
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\refint\Task_19.dll
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.pdb
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\Task_19.genruntimeconfig.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_19\obj\Debug\net6.0\ref\Task_19.dll

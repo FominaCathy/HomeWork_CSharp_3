@@ -1,0 +1,15 @@
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.AssemblyInfoInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.AssemblyInfo.cs
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\bin\Debug\net6.0\Task_ADD_08.exe
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\bin\Debug\net6.0\Task_ADD_08.deps.json
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\bin\Debug\net6.0\Task_ADD_08.runtimeconfig.json
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\bin\Debug\net6.0\Task_ADD_08.dll
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\bin\Debug\net6.0\Task_ADD_08.pdb
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.dll
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\refint\Task_ADD_08.dll
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.pdb
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\Task_ADD_08.genruntimeconfig.cache
+C:\_GB\01. Программирование\C#\HomeWork_3\Task_ADD_08\obj\Debug\net6.0\ref\Task_ADD_08.dll
