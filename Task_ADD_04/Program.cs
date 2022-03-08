@@ -9,15 +9,15 @@ class Program
          //create 4 point random
         Random rnd = new Random();
         
-        int Ax = 5; //rnd.Next(-10, 10); 
-        int Ay = -10;//rnd.Next(-10, 10);
-        int Bx = 9; //rnd.Next(-10, 10); 
-        int By = -2;//rnd.Next(-10, 10);
+        int Ax = rnd.Next(-10, 10); 
+        int Ay = rnd.Next(-10, 10);
+        int Bx = rnd.Next(-10, 10); 
+        int By = rnd.Next(-10, 10);
         
-        int Cx = 1;//rnd.Next(-10, 10); 
-        int Cy = -5;//rnd.Next(-10, 10);
-        int Dx = 10;//rnd.Next(-10, 10); 
-        int Dy = -10;//rnd.Next(-10, 10);
+        int Cx = rnd.Next(-10, 10); 
+        int Cy = rnd.Next(-10, 10);
+        int Dx = rnd.Next(-10, 10); 
+        int Dy = rnd.Next(-10, 10);
         double Ox = 0; //точка пересечения 
         double Oy = 0;
 
@@ -63,8 +63,6 @@ class Program
                 Oy = (-(Ay*Bx-Ax*By)-(By-Ay)*Ox)/(Ax-Bx);
             }
         
-            //Console.Write("Точка пересечения отрезков: х = " + Ox + ", у= " + Oy);
-
         }
 
         void Location_Point () // quarter

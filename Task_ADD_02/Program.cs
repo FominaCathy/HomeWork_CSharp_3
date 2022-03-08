@@ -8,15 +8,15 @@ class Program
          //create 4 point random
         Random rnd = new Random();
         
-        int Ax = 0; //rnd.Next(-10, 10); 
-        int Ay = 0;//rnd.Next(-10, 10);
-        int Bx = 10; //rnd.Next(-10, 10); 
-        int By = 10;//rnd.Next(-10, 10);
+        int Ax = rnd.Next(-10, 10); 
+        int Ay = rnd.Next(-10, 10);
+        int Bx = rnd.Next(-10, 10); 
+        int By = rnd.Next(-10, 10);
         
-        int Cx = 5;//rnd.Next(-10, 10); 
-        int Cy = 10;//rnd.Next(-10, 10);
-        int Dx = 5;//rnd.Next(-10, 10); 
-        int Dy = 0;//rnd.Next(-10, 10);
+        int Cx = rnd.Next(-10, 10); 
+        int Cy = rnd.Next(-10, 10);
+        int Dx = rnd.Next(-10, 10); 
+        int Dy = rnd.Next(-10, 10);
 
         int vector1 = Mult_Vectors(Dx-Cx, Dy-Cy, Ax-Cx, Ay-Cy); //CD * CA     
         int vector2 = Mult_Vectors(Dx-Cx, Dy-Cy, Bx-Cx, By-Cy); //CD * CB
